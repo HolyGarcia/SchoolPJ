@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwBDZWD5m3GB9tecR5V39sWPFZ7GyTDhNsjgMGR6PevR3eKw40ULyjFcv9UA08IsfrHfxVIZR595Axi8q/1cng==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\SchoolPJ\\PrivSchool\\PrivSchool.API\\PrivSchool.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
